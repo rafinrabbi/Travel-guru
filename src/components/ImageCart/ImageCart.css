@@ -1,0 +1,27 @@
+.card {
+  margin-top: 10px;
+  margin-left: 430px;
+  width: 230px;
+  height: 354px;
+  border-radius: 20px;
+}
+
+.card:hover {
+  border: 2px solid #f9a51a;
+}
+
+.destinationCard {
+  
+  width: 270px;
+  height: 416px;
+}
+
+.card-title {
+  text-transform: uppercase;
+  padding-top: 290px;
+}
+
+body {
+  
+  color: white;
+}

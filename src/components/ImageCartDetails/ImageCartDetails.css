@@ -1,0 +1,23 @@
+.bookingButton {
+  background-color: #f9a51a;
+  width: 161px;
+  height: 48px;
+  border-radius: 5px;
+  border: none;
+}
+.bookingButtonText {
+  color: black !important;
+}
+.margin{
+  margin-top: 50px;
+}
+.text-margin1{
+  margin-top: 100px;
+}
+
+.text-margin2{
+  margin-top: 170px;
+}
+.text-margin3{
+  margin-top: 170px;
+}
